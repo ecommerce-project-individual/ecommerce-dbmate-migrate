@@ -1,0 +1,1 @@
+dbmate -e DATABASE_LOCAL_URL up
